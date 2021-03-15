@@ -2,9 +2,6 @@
 webプログラミングでよく使うコマンドなどをシェアするサービス(docker環境を使いデプロイ)
 
 
-# campe-share(laradock環境)
-
-**webプログラミングやwebデザインでよく使うあれなんだっけ？を解決するサービス**
 <br><br>
 **URL：** http://campe-share.herokuapp.com/<br>
 **URL：** http://35.72.122.134/
