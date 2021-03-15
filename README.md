@@ -45,8 +45,8 @@ Qiitaやzennなど「エンジニアが知見を共有する」というテー�
 
 * __インフラ__ 
 
-Docker 20.10.2 / docker-compose 1.27.4
-AWS ( EC2 VPC, EIP, IAM )
+  * Docker 20.10.2 / docker-compose 1.27.4
+  * AWS ( EC2 VPC, EIP, IAM )
 
   
 * 使用エディタ
