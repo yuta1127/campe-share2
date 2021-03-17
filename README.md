@@ -55,9 +55,8 @@ Qiitaやzennなど「エンジニアが知見を共有する」というテー�
 
 ## ER図<br>
 
-![ER](https://user-images.githubusercontent.com/51204159/111461216-46d66d00-8760-11eb-92e7-f2aa0d3d552a.png)
+![ER](https://user-images.githubusercontent.com/51204159/111462251-8ea9c400-8761-11eb-8734-5b2fd1ea03a8.png)<br>
 
-<br>
 
 
 
